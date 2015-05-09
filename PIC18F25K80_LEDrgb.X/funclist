@@ -1,0 +1,8 @@
+_init_CAN: CODE, 568 0 232
+_main: CODE, 1132 0 98
+_high_isr: CODE, 8 0 978
+_setRGB: CODE, 986 0 146
+__initialization: CODE, 1230 0 80
+_Delay100TCYx: CODE, 1316 0 18
+_low_isr: CODE, 24 0 180
+Total: 1732
