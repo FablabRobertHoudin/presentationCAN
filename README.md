@@ -2,6 +2,8 @@
 Présentation faite par E. Goudot du Fablab Robert-Houdin, suite à la demande du professeur Jérôme Nouveau.
 Faite le 10 avr 2015 (16h-17h) au lycée Camille Claudel
 
+Présentation CAN.pdf est le support de présentation lui même.
+
 Ce projet contient les sources et documentations de la démonstration sur table qui consistais en:
 
 - un Arduino Due ayant 
